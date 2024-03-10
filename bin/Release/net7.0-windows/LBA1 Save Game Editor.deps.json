@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LBA1 Save Game Editor/1.0.0": {
+        "runtime": {
+          "LBA1 Save Game Editor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LBA1 Save Game Editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

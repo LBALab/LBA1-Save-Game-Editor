@@ -1,0 +1,27 @@
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\Areacode.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\ChapterOffsets.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\Holomap.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\Inventory.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\InventoryUsed.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\MovieOffsets.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\QuestOffsets.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\saveGame.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\skins.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\files\languages\ENG\LBA1\Twinsen.xml
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\LBA1 Save Game Editor.exe
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\LBA1 Save Game Editor.deps.json
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\LBA1 Save Game Editor.runtimeconfig.json
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\LBA1 Save Game Editor.dll
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\bin\Debug\net7.0-windows\LBA1 Save Game Editor.pdb
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1_Save_Game_Editor.LBA1SavegameEditor.resources
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1_Save_Game_Editor.Properties.Resources.resources
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1 Save Game Editor.csproj.GenerateResource.cache
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1 Save Game Editor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1 Save Game Editor.AssemblyInfoInputs.cache
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1 Save Game Editor.AssemblyInfo.cs
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1 Save Game Editor.csproj.CoreCompileInputs.cache
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1 Save Game Editor.dll
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\refint\LBA1 Save Game Editor.dll
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1 Save Game Editor.pdb
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\LBA1 Save Game Editor.genruntimeconfig.cache
+E:\Users\Matt\source\repos\LBA1 Save Game Editor\obj\Debug\net7.0-windows\ref\LBA1 Save Game Editor.dll
